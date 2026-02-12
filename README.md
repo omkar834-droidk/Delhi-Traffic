@@ -1,10 +1,4 @@
-Ahhh I see what you mean 😄
-You want clear separated bullet points, properly spaced, clean formatting — not paragraph-style text.
 
-Got it.
-Below is a fully clean, professional, properly separated README.md with strong bullet highlights and clear structure.
-
-You can copy this directly.
 
 🚦 Delhi Traffic Travel Time Prediction
 
@@ -150,4 +144,5 @@ The project is deployed on Streamlit Cloud:
 
 Omkar Salunke
 Aspiring Data Scientist | Machine Learning Enthusiast
+
 
