@@ -101,11 +101,16 @@ Joblib
 
 📂 Project Structure
 Delhi-Traffic/
+
 │
 ├── app.py
+
 ├── xgboost_model.pkl
+
 ├── label_encoders.pkl
+
 ├── requirements.txt
+
 ├── README.md
 
 🚀 How to Run Locally
@@ -129,19 +134,20 @@ The project is deployed on Streamlit Cloud:
 
 💡 Key Learning Outcomes
 
-✔ End-to-end ML workflow
+✔ End-to-end ML workflow .
 
-✔ Feature engineering & encoding
+✔ Feature engineering & encoding .
 
-✔ Model serialization and deployment
+✔ Model serialization and deployment .
 
-✔ Git version control
+✔ Git version control .
 
-✔ Debugging real-world deployment issues
-
-✔ Building user-friendly ML dashboards
+✔ Debugging real-world deployment issues .
+ 
+✔ Building user-friendly ML dashboards .
 
 👨‍💻 Author
 
 Omkar Salunke
 Aspiring Data Scientist | Machine Learning Enthusiast
+
